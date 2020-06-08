@@ -5,7 +5,7 @@ Returns the second argument if the first one is `undefined`.
 ## Installation
 
 ```
-ember install ember-default-helper
+ember install @precision-nutrition/ember-default-helper
 ```
 
 ## Usage
