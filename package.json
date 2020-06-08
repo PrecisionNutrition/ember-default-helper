@@ -1,6 +1,6 @@
 {
   "name": "@precision-nutrition/ember-default-helper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Returns the second argument if the first one is undefined.",
   "keywords": [
     "ember-addon"
